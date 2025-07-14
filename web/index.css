@@ -3,6 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+   
 }
 
 header {
@@ -21,11 +22,15 @@ header {
 }
 
 .container {
+    background-image:url("https://noithatbinhminh.com.vn/wp-content/uploads/2022/08/anh-dep-28.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     padding: 40px;
     gap: 40px;
+    margin-top: 20px;
 }
 
 section {
