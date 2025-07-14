@@ -34,8 +34,7 @@ section {
     gap: 340px;
 }
 
-.box, .box1 {
-    background-color: white;
+.box, .box-month {
     border-radius: 16px;
     padding: 24px;
     width: 220px;
@@ -53,13 +52,13 @@ section {
     gap: 8px;
 }
 
-.box-title1 {
+.box-title-head {
     font-size: 22px;
     color: #0081d0;
     font-weight: 600;
 }
 
-.box-title2 {
+.box-title-tail {
     margin-top: 8px;
     font-weight: 300;
     font-size: 14px;
