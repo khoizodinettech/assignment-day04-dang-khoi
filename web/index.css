@@ -22,7 +22,7 @@ header {
 }
 
 .container {
-    background-image:url("https://noithatbinhminh.com.vn/wp-content/uploads/2022/08/anh-dep-28.jpg");
+    background-image:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfZ4PqU-55q-kVpLRSsypDFmQNtFlTGrgtrfV-x5bW30O-BIqA");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -43,6 +43,7 @@ section {
     border-radius: 16px;
     padding: 24px;
     width: 220px;
+    background-color: #fff;
 }
 
 .box-number {
@@ -79,6 +80,7 @@ aside {
     background: #fff;
     border-radius: 16px;
     padding: 36px 32px;
+    box-shadow: 20px 20px 20px rgba(99, 98, 98, 0.9) ;
 }
 
 form {
